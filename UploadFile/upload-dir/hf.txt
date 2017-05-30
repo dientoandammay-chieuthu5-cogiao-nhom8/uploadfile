@@ -1,0 +1,8 @@
+Access Key ID:
+AKIAJCIYR4IB6VLDJH3Q
+Secret Access Key:
+AbfMHafBgHJTFQmRSl4JzM5prbvaqcYqHX/T0X5s
+
+us-east-1
+
+buckettrungten

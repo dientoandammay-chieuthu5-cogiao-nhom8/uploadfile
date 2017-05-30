@@ -1,0 +1,14 @@
+﻿Mình bị giới hạn vì mình đã tạo key rồi. Nếu tạo lần đầu các bạn sẽ được đưa đến cửa sổ sau.
+
+Application "dtdm" do mình tạo lần đầu và đã thành công nên có màu xanh.
+Vì bị giới hạn số lần tạo nên "app1" tạo không thành công. Mình sẽ làm lại các bước.
+
+File .WAR mình đã xuất sẵn.
+
+5.7.10 là phiên bản MySQL trên máy tính của mình.
+
+Bước này không thành công. Vì mình đã từng tạo rồi. Nếu thành công các bạn sẽ thấy màn hình 
+như thế này.
+
+Mình sẽ vào lại application "dtmd" và cấu hình kết nối với database.
+
